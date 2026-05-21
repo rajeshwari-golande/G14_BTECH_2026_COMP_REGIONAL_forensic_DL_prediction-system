@@ -1,0 +1,11 @@
+.git
+.dockerignore
+**/__pycache__
+**/*.pyc
+*.pyo
+/models
+**/models/**/*.h5
+**/models/**/*.keras
+.venv
+venv
+*.md

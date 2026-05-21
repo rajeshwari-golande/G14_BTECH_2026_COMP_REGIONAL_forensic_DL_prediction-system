@@ -1,0 +1,12 @@
+Flask==2.3.3
+flask-cors==4.0.1
+# Install NumPy before OpenCV — OpenCV loads NumPy extensions; mismatched ABI causes
+# ImportError: numpy.core.multiarray failed to import inside cv2 (common with NumPy 2.x + old OpenCV).
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+Pillow==12.2.0
+tensorflow-cpu==2.21.0
+scikit-learn==1.7.2
+joblib==1.4.0
+gunicorn==22.0.0
+huggingface_hub==0.27.1

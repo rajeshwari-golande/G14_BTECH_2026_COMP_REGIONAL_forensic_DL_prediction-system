@@ -1,0 +1,14 @@
+# Keeps `railway up` under the CLI upload limit (~40–50 MB).
+# Model weights must come from MODEL_*_URL vars, CI, volumes, or GitHub deploy.
+models/
+**/models/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+env/
+.env.local
+.git/
+*.log
