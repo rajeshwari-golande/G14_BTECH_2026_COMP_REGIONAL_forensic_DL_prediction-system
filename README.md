@@ -2,6 +2,8 @@
 [Kindly check final_review folder for the ppt , video demo and results] 
 
 WEBSIT--> https://forensic-prediction.vercel.app/
+PAPER-->https://digital-library.theiet.org/doi/10.1049/icp.2025.4755
+
 
 ## Overview
 
